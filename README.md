@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @javier-ddom
-- 👀 I’m interested in data and what machines can discover in it
-- 🌱 I’m currently learning more about life, and working little by little on data science projects
-- 💞️ I’m looking to collaborate on learning and career leads
-- 📫 How to reach me javier.ddom at gmail.com
+- 🌱 I’m currently learning more about legal procedure, working little by little on data science projects, and maintaining my scammer spammer which floods scam call centers with calls so they have less bandwidth
+- 📫 How to reach me: javier.ddom at gmail.com
 
 <!---
 javier-ddom/javier-ddom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
